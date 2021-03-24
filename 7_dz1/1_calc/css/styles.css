@@ -2,3 +2,6 @@ html, body{
     margin: 40px;
 }
 
+td {
+    text-align: center;
+}
